@@ -1,0 +1,3 @@
+I was using the princeton implementation of a Trie, and I decided to try making my own.
+I apologize that I did not finish yesterday. I wanted to have a fresh mind when I made my Trie.
+I think it is well implemented now and I am hoping that it will run fast enough for the autograder.
